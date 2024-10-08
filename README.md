@@ -22,7 +22,9 @@ notebook. The notebook is also available in the examples directory.
 installation
 ============
 ```
-> git clone https://github.com/mattilyra/LSH
+> git clone https://github.com/bugggggggg/LSH-fork
 > cd LSH
+> pip install numpy
+> pip install Cython
 > python setup.py install
 ```
